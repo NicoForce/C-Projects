@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1461821620 source:c:\users\nicom\documents\project c++\primer juego\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1461821620 c:\users\nicom\documents\project c++\primer juego\miniwin.h
+	<iostream>
+
+1506408682 source:c:\users\nicom\documents\project c++\primer juego\main.cpp
+	"miniwin.h"
+
+1506583093 source:c:\users\nicom\documents\project c++\segundo juego\main.cpp
+	"miniwin.h"
+
+1461821620 c:\users\nicom\documents\project c++\segundo juego\miniwin.h
+	<iostream>
+
+1461821620 source:c:\users\nicom\documents\project c++\segundo juego\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
