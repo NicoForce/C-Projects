@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1510608172 source:c:\users\nicom\documents\c-projects\optimization3\collisionhandler.cpp
+	"CollisionHandler.h"
+
+1510564982 c:\users\nicom\documents\c-projects\optimization3\collisionhandler.h
+	"Figure.h"
+
+1510598250 c:\users\nicom\documents\c-projects\optimization3\figure.h
+	<vector>
+	<string>
+	<cstdlib>
+
+1510608838 source:c:\users\nicom\documents\c-projects\optimization3\figure.cpp
+	"Figure.h"
+
+1509447120 source:c:\users\nicom\documents\c-projects\optimization3\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1509447120 c:\users\nicom\documents\c-projects\optimization3\miniwin.h
+	<iostream>
+
+1510609259 source:c:\users\nicom\documents\c-projects\optimization3\main.cpp
+	"miniwin.h"
+	"CollisionHandler.h"
+	<conio.h>
+
